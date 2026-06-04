@@ -55,3 +55,23 @@
 ```
 
 ---
+
+## 🧩 Problem Highlights
+
+**Q3 — Grade Calculator**
+Implements the complete FAST NUCES absolute grading scheme
+mapping marks to letter grades and GPA points.
+
+**Q4 — SGPA Calculator**
+Calculates Semester GPA using the weighted average formula
+across all courses and credit hours.
+
+**Q5 — Zip Code Mapper**
+Maps Pakistani 5-digit zip codes to their respective
+city and province using selection structures.
+
+**Q8 — Character Classifier**
+Categorizes any input character into digit, alphabet,
+punctuation, bracket, symbol, space, or special character.
+
+---
