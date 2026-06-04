@@ -78,6 +78,6 @@ punctuation, bracket, symbol, space, or special character.
 
 <div align="center">
 
-*Part of [cpp-assignments](../README.md) — FAST NUCES BS-CS Journey*
+*Part of [cpp-assignments](../README.md) — FAST NUCES BS-SE Journey*
 
 </div>
