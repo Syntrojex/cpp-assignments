@@ -41,3 +41,17 @@
 | 08 | [Question-8.cpp](./Question-8.cpp) | Character Classifier |
 
 ---
+
+## 💡 Concepts Practiced
+
+```cpp
+✔  if / else if / else
+✔  Ternary operator ( ? : )
+✔  Arithmetic & relational operators
+✔  User input & output
+✔  Edge case handling
+✔  Character & ASCII operations
+✔  Modular thinking
+```
+
+---
