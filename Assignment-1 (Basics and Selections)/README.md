@@ -26,3 +26,18 @@
 📄 [View Questions PDF](./Questions.pdf)
 
 ---
+
+## 🗂️ Solutions
+
+| # | File | Problem |
+|---|------|---------|
+| 01 | [Question-1.cpp](./Question-1.cpp) | Sort 5 integers in Ascending & Descending order |
+| 02 | [Question-2.cpp](./Question-2.cpp) | Area & Perimeter — Square, Rectangle, Circle, Triangle |
+| 03 | [Question-3.cpp](./Question-3.cpp) | FAST NUCES Grade Calculator (Absolute Grading Scheme) |
+| 04 | [Question-4.cpp](./Question-4.cpp) | SGPA Calculator |
+| 05 | [Question-5.cpp](./Question-5.cpp) | Zip Code → City & Province Identifier (Pakistan) |
+| 06 | [Question-6.cpp](./Question-6.cpp) | Caffeine Hub — Coffee Shop Billing System |
+| 07 | [Question-7.cpp](./Question-7.cpp) | 8-Digit Number — Reverse, Digit Sum & Palindrome Check |
+| 08 | [Question-8.cpp](./Question-8.cpp) | Character Classifier |
+
+---
