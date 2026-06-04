@@ -58,6 +58,15 @@
 
 ## 🧩 Problem Highlights
 
+**Q1 — Sort 5 Integers**
+Takes 5 integers from user and prints them in both
+ascending and descending order using selection structures.
+
+**Q2 — Shape Calculator**
+Calculates area and perimeter of square, rectangle and circle.
+Also calculates perimeter of triangle, determines its type
+(Equilateral, Isosceles, Scalene) and checks if rectangle is a square.
+
 **Q3 — Grade Calculator**
 Implements the complete FAST NUCES absolute grading scheme
 mapping marks to letter grades and GPA points.
@@ -70,9 +79,17 @@ across all courses and credit hours.
 Maps Pakistani 5-digit zip codes to their respective
 city and province using selection structures.
 
+**Q6 — Caffeine Hub Billing**
+Coffee shop billing system with item selection, add-ons
+(sugar/cream) and 10% service tax calculation.
+
+**Q7 — Number Operations**
+Takes an 8-digit number and prints it in reverse,
+calculates digit sum and checks if it is a palindrome.
+
 **Q8 — Character Classifier**
 Categorizes any input character into digit, alphabet,
-punctuation, bracket, symbol, space, or special character.
+punctuation, bracket, symbol, space or special character.
 
 ---
 
