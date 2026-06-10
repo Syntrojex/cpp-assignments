@@ -26,3 +26,19 @@
 📄 [View Questions PDF](./Questions.pdf)
 
 ---
+
+## 🗂️ Solutions
+
+| # | File | Problem |
+|---|------|---------|
+| 01 | [Question-1.cpp](./Question-1.cpp) | Diamond Star Pattern |
+| 02 | [Question-2.cpp](./Question-2.cpp) | Hourglass Star Pattern |
+| 03 | [Question-3.cpp](./Question-3.cpp) | Spiral Number Matrix (Perfect Square) |
+| 04 | [Question-4.cpp](./Question-4.cpp) | SGPA Calculator (N Courses) |
+| 05 | [Question-5.cpp](./Question-5.cpp) | Pascal Triangle |
+| 06 | [Question-6.cpp](./Question-6.cpp) | FAST Hub — Coffee Shop Billing System |
+| 07 | [Question-7.cpp](./Question-7.cpp) | Multiplication Table Generator |
+| 08 | [Question-8.cpp](./Question-8.cpp) | Print N Prime Numbers |
+
+---
+
