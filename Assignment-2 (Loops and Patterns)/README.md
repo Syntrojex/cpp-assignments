@@ -92,3 +92,9 @@ Takes N as input and prints the first
 N prime numbers using loop-based logic.
 
 ---
+
+<div align="center">
+
+*Part of [cpp-assignments](../README.md) — FAST NUCES BS-SE Journey*
+
+</div>
