@@ -42,3 +42,17 @@
 
 ---
 
+## 💡 Concepts Practiced
+
+```cpp
+✔  for loop
+✔  while loop
+✔  do-while loop
+✔  Nested loops
+✔  Pattern printing
+✔  Mathematical logic
+✔  Prime number detection
+✔  Combinatorics (Pascal Triangle)
+```
+
+---
