@@ -56,3 +56,39 @@
 ```
 
 ---
+
+## 🧩 Problem Highlights
+
+**Q1 — Diamond Pattern**
+Prints a diamond shape of stars with N rows
+using nested loops for spacing and stars.
+
+**Q2 — Hourglass Pattern**
+Prints an hourglass pattern — decreasing then
+increasing rows of stars centered.
+
+**Q3 — Spiral Matrix**
+Takes a perfect square N and fills numbers
+in a spiral order (1 to N) into a 2D grid.
+
+**Q4 — SGPA Calculator**
+Dynamic version — takes N courses from user,
+calculates weighted GPA using loops.
+
+**Q5 — Pascal Triangle**
+Prints Pascal Triangle up to N rows using
+combinatorics displayed in hexagonal pattern.
+
+**Q6 — FAST Hub Billing**
+Multi-order coffee shop system with UserID tracking,
+add-ons, subtotals and 20% GST after each order.
+
+**Q7 — Multiplication Table**
+Generates multiplication table of any number
+from 1 up to a user-defined limit.
+
+**Q8 — N Prime Numbers**
+Takes N as input and prints the first
+N prime numbers using loop-based logic.
+
+---
