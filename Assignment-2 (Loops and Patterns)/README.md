@@ -12,3 +12,17 @@
 </div>
 
 ---
+
+## 📋 Details
+
+| Field | Info |
+|-------|------|
+| **Course** | Programming Fundamentals |
+| **Instructor** | Ms. Anosha Khan |
+| **Total Marks** | 100 |
+| **Total Questions** | 8 |
+| **Topics** | Loops — for / while / do-while |
+
+📄 [View Questions PDF](./Questions.pdf)
+
+---
