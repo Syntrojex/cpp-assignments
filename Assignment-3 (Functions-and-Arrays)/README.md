@@ -81,3 +81,9 @@ Simulates the classic frog puzzle — swaps 3 left frogs
 with 3 right frogs on 7 stones, printing each move.
 
 ---
+
+<div align="center">
+
+*Part of [cpp-assignments](../README.md) — FAST NUCES BS-SE Journey*
+
+</div>
