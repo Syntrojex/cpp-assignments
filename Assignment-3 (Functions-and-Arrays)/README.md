@@ -53,3 +53,31 @@
 ```
 
 ---
+
+## 🧩 Problem Highlights
+
+**Q1 — Remove Duplicates**
+Removes duplicate values from an integer array
+in-place without using an extra array.
+
+**Q2 — K-th Largest Element**
+Finds and returns the K-th largest number
+from a given integer array.
+
+**Q3 — Merge Sorted Arrays**
+Combines two sorted arrays into one sorted array
+without using nested loops.
+
+**Q4 — Longest Consecutive 1s**
+Given a binary array, finds the maximum length
+of consecutive 1s after deleting exactly one element.
+
+**Q5 — Minimize Waiting Time**
+Schedules N customer print jobs to minimize
+total waiting time using an optimal greedy approach.
+
+**Q6 — Frog Jump Puzzle**
+Simulates the classic frog puzzle — swaps 3 left frogs
+with 3 right frogs on 7 stones, printing each move.
+
+---
