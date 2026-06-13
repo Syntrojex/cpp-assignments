@@ -39,3 +39,17 @@
 | 06 | [Question-6.cpp](./Question-6.cpp) | Frog Jump Puzzle — Swap Left & Right Frogs |
 
 ---
+
+## 💡 Concepts Practiced
+
+```cpp
+✔  Functions — modular code design
+✔  Integer arrays
+✔  Array manipulation
+✔  Sorting logic
+✔  Greedy algorithms
+✔  Simulation & state tracking
+✔  Pass by reference / pointer
+```
+
+---
