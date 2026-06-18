@@ -76,3 +76,9 @@ Compresses a string using run-length encoding (aaaabb → a4b2)
 then decompresses it back to the original.
 
 ---
+
+<div align="center">
+
+*Part of [cpp-assignments](../README.md) — FAST NUCES BS-SE Journey*
+
+</div>
