@@ -38,3 +38,17 @@
 | 05 | [Question-5.cpp](./Question-5.cpp) | String Compression & Decompression |
 
 ---
+
+## 💡 Concepts Practiced
+
+```cpp
+✔  2D arrays & matrix operations
+✔  Character arrays (C-strings)
+✔  Pattern matching & wildcards
+✔  String manipulation
+✔  Encryption & decryption logic
+✔  Run-length encoding
+✔  Modular function design
+```
+
+---
