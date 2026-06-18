@@ -12,3 +12,17 @@
 </div>
 
 ---
+
+## 📋 Details
+
+| Field | Info |
+|-------|------|
+| **Course** | Programming Fundamentals |
+| **Instructor** | Ms. Anosha Khan |
+| **Total Marks** | 70 |
+| **Total Questions** | 5 |
+| **Topics** | Character Arrays & 2D Arrays |
+
+📄 [View Questions PDF](./Questions.pdf)
+
+---
