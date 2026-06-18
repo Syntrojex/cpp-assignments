@@ -52,3 +52,27 @@
 ```
 
 ---
+
+## 🧩 Problem Highlights
+
+**Q1 — Matrix Operations**
+Performs multiple operations on rectangular/column matrices —
+display side by side, product, addition, difference, determinant and sort.
+
+**Q2 — Wildcard Pattern Matching**
+Matches a pattern against text using wildcards
+where `?` matches one character and `*` matches any sequence.
+
+**Q3 — Text Corpus Frequency Search**
+Finds and returns the frequency of a needle string
+within a large text dataset using character arrays.
+
+**Q4 — ASCII Encryption**
+Encrypts a C-string using a repeating ASCII key,
+then decrypts it back — all within displayable ASCII range.
+
+**Q5 — String Compression**
+Compresses a string using run-length encoding (aaaabb → a4b2)
+then decompresses it back to the original.
+
+---
