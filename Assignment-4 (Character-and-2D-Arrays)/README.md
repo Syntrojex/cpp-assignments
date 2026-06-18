@@ -26,3 +26,15 @@
 📄 [View Questions PDF](./Questions.pdf)
 
 ---
+
+## 🗂️ Solutions
+
+| # | File | Problem |
+|---|------|---------|
+| 01 | [Question-1.cpp](./Question-1.cpp) | Matrix Operations — Product, Sum, Difference, Determinant, Sort |
+| 02 | [Question-2.cpp](./Question-2.cpp) | Wildcard Pattern Matching |
+| 03 | [Question-3.cpp](./Question-3.cpp) | Frequency Search in Large Text Corpus |
+| 04 | [Question-4.cpp](./Question-4.cpp) | String Encryption & Decryption (ASCII Key) |
+| 05 | [Question-5.cpp](./Question-5.cpp) | String Compression & Decompression |
+
+---
