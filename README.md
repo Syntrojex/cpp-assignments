@@ -1,2 +1,2 @@
-#A1 A2 and A3 added remaining in progress
-#A4 questions and solutions will be added today
+#A1 A2 A3 A4 added remaining in progress (A5 A6 A7)
+
