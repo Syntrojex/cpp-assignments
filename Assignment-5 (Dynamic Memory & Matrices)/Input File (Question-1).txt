@@ -1,0 +1,12 @@
+Main Course,Experimental-Blue,Crystal Burger,1500,Heisenberg Kitchen,Walter White,1800
+Dessert,Experimental,Blue Ice Pops,350,Pinkman Treats,Jesse Pinkman,500
+Appetizer,Mexican-Street,Sloppy Nachos,400,Sauls Shady Snacks,,700
+Main Course,American-BBQ,Smoked Ribs,1200,Schrader Grill,Hank Schrader,1400
+Dessert,Mexican,Churros,250,Los Pollos Hermanos,,500
+Appetizer,Fusion,Blue Meth Fries,600,Vamonos Tacos,Todd Alquist,
+Main Course,American,Classic Cheeseburger,800,Albuquerque Diner,,950
+Dessert,Experimental-Fusion,Blue Velvet Cake,450,Heisenberg Kitchen,Walter White,700
+Appetizer,Mexican,Guacamole Supreme,300,Los Pollos Hermanos,Gustavo Fring,400
+Main Course,Fusion,Meth Glazed Chicken,1100,Pollos Fusion Lab,,1300
+Dessert,American,Apple Pie,280,Schrader Grill,Marie Schrader,
+Appetizer,Experimental-Blue,Blue Cheese Bombs,500,Pinkman Treats,Jesse Pinkman,650
