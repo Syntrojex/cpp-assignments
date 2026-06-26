@@ -1,0 +1,16 @@
+Menu: 
+
+Category                 Cuisine Type             Item Name                Price                    Restaurant Name          Cook Name                Calories                 
+
+Appetizer                Mexican                  Guacamole Supreme        300                      Los Pollos Hermanos      Gustavo Fring            400                      
+Dessert                  Mexican                  Churros                  250                      Los Pollos Hermanos      Not Available!!          500                      
+Appetizer                Mexican-Street           Sloppy Nachos            400                      Sauls Shady Snacks       Not Available!!          700                      
+Main Course              American                 Classic Cheeseburger     800                      Albuquerque Diner        Not Available!!          950                      
+Main Course              American-BBQ             Smoked Ribs              1200                     Schrader Grill           Hank Schrader            1400                     
+Dessert                  American                 Apple Pie                280                      Schrader Grill           Marie Schrader           Not Available!!          
+Main Course              Fusion                   Meth Glazed Chicken      1100                     Pollos Fusion Lab        Not Available!!          1300                     
+Appetizer                Fusion                   Blue Meth Fries          600                      Vamonos Tacos            Todd Alquist             Not Available!!          
+Main Course              Experimental-Blue        Crystal Burger           1500                     Heisenberg Kitchen       Walter White             1800                     
+Dessert                  Experimental-Fusion      Blue Velvet Cake         450                      Heisenberg Kitchen       Walter White             700                      
+Appetizer                Experimental-Blue        Blue Cheese Bombs        500                      Pinkman Treats           Jesse Pinkman            650                      
+Dessert                  Experimental             Blue Ice Pops            350                      Pinkman Treats           Jesse Pinkman            500                      
