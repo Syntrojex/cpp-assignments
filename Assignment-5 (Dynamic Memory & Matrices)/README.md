@@ -54,3 +54,29 @@
 ```
 
 ---
+
+## 🧩 Problem Highlights
+
+**Q1 — Menu Management System**
+Reads unorganized restaurant menu data from a file, builds a
+dynamic 2D string array, and sorts it by Cuisine → Restaurant →
+Category → Price. Supports cuisine-based search (e.g. "Mexican"
+matches Mexican, Mexican-Street, Mexican-Fusion) and exports
+the organized result to an output file.
+
+**Q2 — Shopping Cart System**
+Full cart management engine — add/remove items, dynamic
+attributes (price, category, etc.), sorting by any attribute,
+total/average value calculation, and range-based filtering.
+
+**Q3 — Inventory Cleanup**
+Compacts a sparse warehouse stock grid into a clean "pick list" —
+removes empty (0) slots and keeps only actual stock counts,
+with each shelf row sized to its real item count.
+
+**Bonus — Thesaurus Writing Assistant**
+Parses a hash-separated word/synonym string into a dynamic
+2D string array (`string**`) and replaces an input word with
+its last listed synonym.
+
+---
