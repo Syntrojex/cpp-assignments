@@ -23,7 +23,7 @@
 | **Topics** | Dynamic Memory Allocation, 2D Arrays, Pointers |
 
 📄 [View Questions PDF](./Questions.pdf)
-📄 [Sample I/O for Question 2](./Sample%20Input%20Output%20for%20Question_2.pdf)
+📄 [Sample I/O for Question 2](./Sample%20Input%20Output%20for%20Question%202.pdf)
 
 > ⚠️ Static arrays not allowed — all data structures use dynamic memory allocation.
 
