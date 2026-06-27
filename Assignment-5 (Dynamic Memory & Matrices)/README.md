@@ -40,3 +40,17 @@
 | 📁 | [Output File](./Output%20File%20%28Question-1%29) | Sorted menu output for Q1 |
 
 ---
+
+## 💡 Concepts Practiced
+
+```cpp
+✔  Dynamic memory allocation (new/delete)
+✔  Dynamic 2D arrays
+✔  File handling (read/write)
+✔  Multi-key sorting
+✔  Search & filter algorithms
+✔  Memory-safe pointer handling
+✔  Matrix compaction (sparse → dense)
+```
+
+---
