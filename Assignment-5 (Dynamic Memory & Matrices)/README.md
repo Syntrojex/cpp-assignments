@@ -11,3 +11,20 @@
 </div>
 
 ---
+
+## 📋 Details
+
+| Field | Info |
+|-------|------|
+| **Course** | Object-Oriented Programming |
+| **Instructor** | Ma'am Hina Iqbal |
+| **TA** | Syed Saad Ali |
+| **Section** | BSE-2B |
+| **Topics** | Dynamic Memory Allocation, 2D Arrays, Pointers |
+
+📄 [View Questions PDF](./Questions.pdf)
+📄 [Sample I/O for Question 2](./Sample_Input_Output_for_Question_2.pdf)
+
+> ⚠️ Static arrays not allowed — all data structures use dynamic memory allocation.
+
+---
