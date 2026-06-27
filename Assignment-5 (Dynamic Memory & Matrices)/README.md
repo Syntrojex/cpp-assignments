@@ -28,3 +28,15 @@
 > ⚠️ Static arrays not allowed — all data structures use dynamic memory allocation.
 
 ---
+
+## 🗂️ Solutions
+
+| # | File | Problem |
+|---|------|---------|
+| 01 | [Question-1.cpp](./Question-1.cpp) | Heisenberg's Underground Menu Management System |
+| 02 | [Question-2.cpp](./Question-2.cpp) | Shopping Cart Management System |
+| 03 | [Question-3.cpp](./Question-3.cpp) | The Inventory Cleanup (E-commerce) |
+| 📁 | [Input File](./Input%20File%20%28Question-1%29) | Sample menu data for Q1 |
+| 📁 | [Output File](./Output%20File%20%28Question-1%29) | Sorted menu output for Q1 |
+
+---
