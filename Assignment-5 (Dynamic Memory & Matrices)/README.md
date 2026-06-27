@@ -22,7 +22,7 @@
 | **Section** | BSE-2B |
 | **Topics** | Dynamic Memory Allocation, 2D Arrays, Pointers |
 
-📄 [View Questions PDF](./Questions.pdf)
+📄 [View Questions PDF](./Questions.pdf)\
 📄 [Sample I/O for Question 2](./Sample%20Input%20Output%20for%20Question%202.pdf)
 
 > ⚠️ Static arrays not allowed — all data structures use dynamic memory allocation.
@@ -36,8 +36,8 @@
 | 01 | [Question-1.cpp](./Question-1.cpp) | Heisenberg's Underground Menu Management System |
 | 02 | [Question-2.cpp](./Question-2.cpp) | Shopping Cart Management System |
 | 03 | [Question-3.cpp](./Question-3.cpp) | The Inventory Cleanup (E-commerce) |
-| 📁 | [Input File](./Input%20File%20%28Question-1%29) | Sample menu data for Q1 |
-| 📁 | [Output File](./Output%20File%20%28Question-1%29) | Sorted menu output for Q1 |
+| 📁 | [Input File](./Input%20File%20%28Question-1%29.txt) | Sample menu data for Q1 |
+| 📁 | [Output File](./Output%20File%20%28Question-1%29.txt) | Sorted menu output for Q1 |
 
 ---
 
