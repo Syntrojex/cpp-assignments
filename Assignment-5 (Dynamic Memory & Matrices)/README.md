@@ -80,3 +80,10 @@ Parses a hash-separated word/synonym string into a dynamic
 its last listed synonym.
 
 ---
+
+## ⚠️ Constraints
+✘  No static arrays — dynamic memory only\
+✘  No memory leaks / dangling pointers\
+✘  No AI-generated solutions
+
+---
