@@ -87,3 +87,9 @@ its last listed synonym.
 ✘  No AI-generated solutions
 
 ---
+
+<div align="center">
+
+*Part of [cpp-assignments](../README.md) — FAST NUCES BS-SE Journey*
+
+</div>
