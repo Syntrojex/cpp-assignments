@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/Status-Completed-16a34a?style=for-the-badge)
 
 </div>
-
+ 
 ---
 
 ## 📋 Details
