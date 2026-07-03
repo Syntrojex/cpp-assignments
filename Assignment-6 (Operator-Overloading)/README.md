@@ -27,3 +27,13 @@
 📄 [View Questions PDF](./Questions.pdf)
 
 ---
+
+## 🗂️ Solutions
+
+| # | File | Problem | Marks |
+|---|------|---------|-------|
+| 01 | [Question-1.cpp](./Question-1.cpp) | Rational Number System | 35 |
+| 02 | [Question-2.cpp](./Question-2.cpp) | Custom Text Handling (MyString) | 35 |
+| 03 | [Question-3.cpp](./Question-3.cpp) | Calendar Management System | 30 |
+
+---
