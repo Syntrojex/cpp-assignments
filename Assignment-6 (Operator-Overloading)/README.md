@@ -20,7 +20,7 @@
 | **Course** | Object-Oriented Programming |
 | **Instructor** | Ma'am Hina Iqbal |
 | **TA** | Syed Saad Ali |
-| **Section** | BSSE-2A/2B |
+| **Section** | BSSE-2B |
 | **Semester** | Spring 2026 |
 | **Topics** | Operator Overloading · Rule of Three · Dynamic Memory |
 
