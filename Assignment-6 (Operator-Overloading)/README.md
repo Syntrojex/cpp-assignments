@@ -83,3 +83,9 @@ day difference.
 ✘  std::string banned inside MyString
 
 ---
+
+<div align="center">
+
+*Part of [cpp-assignments](../README.md) — FAST NUCES BS-SE Journey*
+
+</div>
