@@ -37,3 +37,18 @@
 | 03 | [Question-3.cpp](./Question-3.cpp) | Calendar Management System | 30 |
 
 ---
+
+## 💡 Concepts Practiced
+
+```cpp
+✔  Operator overloading (+, -, *, /, +=, -=, ==, !=, , [], (), <>)
+✔  Rule of Three (Destructor + Copy Constructor + Copy Assignment)
+✔  Dynamic memory allocation (new/delete)
+✔  GCD simplification
+✔  Date arithmetic & leap year logic
+✔  Prefix vs postfix increment/decrement
+✔  Friend functions
+✔  Exception handling & input validation
+```
+
+---
