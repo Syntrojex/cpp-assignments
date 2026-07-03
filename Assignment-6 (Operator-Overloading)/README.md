@@ -76,10 +76,10 @@ day difference.
 ---
 
 ## ⚠️ Constraints
-✘  No built-in string functions
-✘  Arrays accessed via pointer arithmetic only — no []
-✘  No global variables
-✘  No memory leaks / dangling pointers
+✘  No built-in string functions\
+✘  Arrays accessed via pointer arithmetic only — no []\
+✘  No global variables\
+✘  No memory leaks / dangling pointers\
 ✘  std::string banned inside MyString
 
 ---
