@@ -12,3 +12,18 @@
 </div>
 
 ---
+
+## 📋 Details
+
+| Field | Info |
+|-------|------|
+| **Course** | Object-Oriented Programming |
+| **Instructor** | Ma'am Hina Iqbal |
+| **TA** | Syed Saad Ali |
+| **Section** | BSSE-2A/2B |
+| **Semester** | Spring 2026 |
+| **Topics** | Operator Overloading · Rule of Three · Dynamic Memory |
+
+📄 [View Questions PDF](./Questions.pdf)
+
+---
