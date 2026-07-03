@@ -52,3 +52,25 @@
 ```
 
 ---
+
+## 🧩 Problem Highlights
+
+**Q1 — Rational Number System**
+A fully functional rational number class with automatic GCD
+simplification, sign normalization, and complete operator support —
+arithmetic, comparison, increment/decrement, stream I/O and function
+call operator returning the reciprocal.
+
+**Q2 — Custom Text Handling (MyString)**
+A hand-built string class without `std::string` — manages its own
+dynamic char array, implements deep copy via Rule of Three, and
+supports concatenation, lexicographic comparison, indexing, reversal
+and stream I/O.
+
+**Q3 — Calendar Management System**
+A Gregorian calendar date class with full leap year support, day
+arithmetic, month/year boundary transitions, three display formats,
+and complete operator overloading including date subtraction returning
+day difference.
+
+---
