@@ -37,14 +37,21 @@
 ---
 
 ## 🏗️ Class Architecture
+
+```text
 University
-├── Department[]          ← COMPOSITION  (destroyed with University)
-│   ├── Course[]          ← COMPOSITION  (destroyed with Department)
-│   └── Professor*[]      ← AGGREGATION  (survives Department)
-└── Student*[]            ← AGGREGATION  (survives University)
-├── Address            ← COMPOSITION  (destroyed with Student)
-└── Course*[]         ← AGGREGATION  (survives Student)
+├── Department[]          ← COMPOSITION (destroyed with University)
+│   ├── Course[]          ← COMPOSITION (destroyed with Department)
+│   └── Professor*[]      ← AGGREGATION (survives Department)
+│
+└── Student*[]            ← AGGREGATION (survives University)
+    ├── Address           ← COMPOSITION (destroyed with Student)
+    └── Course*[]         ← AGGREGATION (survives Student)
+
 Professor
-└── Address               ← COMPOSITION  (destroyed with Professor)
+└── Address               ← COMPOSITION (destroyed with Professor)
+```
 
 ---
+
+
