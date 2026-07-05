@@ -101,3 +101,10 @@ A full console-based university simulation in C++ with 6 interconnected classes:
 | University | Student | Aggregation | Student exists independently |
 
 ---
+
+## ⚠️ Constraints
+✘  No built-in string functions\
+✘  No [] operator — pointer arithmetic only\
+✘  No global variables\
+✘  No memory leaks / dangling pointers\
+✘  No std::string
