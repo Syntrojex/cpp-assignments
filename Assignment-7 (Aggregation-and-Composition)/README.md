@@ -54,4 +54,18 @@ Professor
 
 ---
 
+## 💡 Concepts Practiced
+
+```cpp
+✔  Composition  — child destroyed with parent (value members)
+✔  Aggregation  — child survives parent (pointer members)
+✔  Rule of Three — destructor, copy constructor, copy assignment
+✔  Dynamic memory allocation — new/delete, pointer-based arrays
+✔  Deep copy of char* members
+✔  Pointer arithmetic — no [] operator allowed
+✔  Edge case handling — duplicates, null checks, dangling pointers
+```
+
+---
+
 
