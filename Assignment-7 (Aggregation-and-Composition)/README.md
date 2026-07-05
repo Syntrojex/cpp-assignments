@@ -88,3 +88,16 @@ A full console-based university simulation in C++ with 6 interconnected classes:
 
 ---
 
+## 🔍 OOP Relationship Map
+
+| Parent | Child | Relationship | Why |
+|--------|-------|-------------|-----|
+| University | Department | Composition | Dept has no meaning without University |
+| Department | Course | Composition | Course has no meaning without Department |
+| Professor | Address | Composition | Address has no meaning without Professor |
+| Student | Address | Composition | Address has no meaning without Student |
+| Department | Professor | Aggregation | Professor exists independently |
+| Student | Course | Aggregation | Course exists independently |
+| University | Student | Aggregation | Student exists independently |
+
+---
