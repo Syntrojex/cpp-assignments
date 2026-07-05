@@ -108,3 +108,11 @@ A full console-based university simulation in C++ with 6 interconnected classes:
 ✘  No global variables\
 ✘  No memory leaks / dangling pointers\
 ✘  No std::string
+
+---
+
+<div align="center">
+
+*Part of [cpp-assignments](../README.md) — FAST NUCES BS-SE Journey*
+
+</div>
