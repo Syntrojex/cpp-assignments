@@ -68,4 +68,23 @@ Professor
 
 ---
 
+## 🧩 Problem Highlight — CampusCore
+
+A full console-based university simulation in C++ with 6 interconnected classes:
+
+**`Address`** — Composed inside Professor and Student. No meaning without its owner.
+
+**`Course`** — Composed inside Department. Destroyed when Department is destroyed.
+
+**`Professor`** — Independent entity. Aggregated into Department via pointer — survives removal.
+
+**`Student`** — Independent entity. Aggregated into University via pointer — survives University.
+
+**`Department`** — Composed inside University. Destroyed when University is destroyed.
+
+**`University`** — Top-level class. Owns Departments (Composition), references Students (Aggregation).
+
+---
+
+---
 
