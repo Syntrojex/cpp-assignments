@@ -35,3 +35,16 @@
 | [Solution.cpp](./Solution.cpp) | CampusCore — University Simulation System |
 
 ---
+
+## 🏗️ Class Architecture
+University
+├── Department[]          ← COMPOSITION  (destroyed with University)
+│   ├── Course[]          ← COMPOSITION  (destroyed with Department)
+│   └── Professor*[]      ← AGGREGATION  (survives Department)
+└── Student*[]            ← AGGREGATION  (survives University)
+├── Address            ← COMPOSITION  (destroyed with Student)
+└── Course*[]         ← AGGREGATION  (survives Student)
+Professor
+└── Address               ← COMPOSITION  (destroyed with Professor)
+
+---
