@@ -12,3 +12,18 @@
 </div>
 
 ---
+
+## 📋 Details
+
+| Field | Info |
+|-------|------|
+| **Course** | Object-Oriented Programming |
+| **Instructor** | Ma'am Hina Iqbal |
+| **TA** | Syed Saad Ali |
+| **Section** | BSSE-A / BSSE-B |
+| **Semester** | Spring 2026 |
+| **Topics** | Aggregation · Composition · OOP Relationships |
+
+📄 [View Question PDF](./Question.pdf)
+
+---
