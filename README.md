@@ -20,3 +20,17 @@ It covers two courses — **Programming Fundamentals** and **Object-Oriented Pro
 progressing from basic selection structures all the way to complex OOP design patterns.
 
 ---
+
+## 🗂️ Assignments
+
+| # | Folder | Course | Topics | Questions |
+|---|--------|--------|--------|-----------|
+| 01 | [Assignment-1(Basics)](./Assignment-1\(Basics\)/) | Programming Fundamentals | Selection Structures · if/else · ternary | 8 |
+| 02 | [Assignment-2(Loops)](./Assignment-2\(Loops\)/) | Programming Fundamentals | for · while · do-while · Patterns | 8 |
+| 03 | [Assignment-3(Functions-and-Arrays)](./Assignment-3\(Functions-and-Arrays\)/) | Programming Fundamentals | Functions · Integer Arrays · Sorting | 6 |
+| 04 | [Assignment-4(Character-and-2D-Arrays)](./Assignment-4\(Character-and-2D-Arrays\)/) | Programming Fundamentals | Char Arrays · 2D Arrays · Encryption | 5 |
+| 05 | [OOP-Assignment-1(Dynamic-Memory)](./OOP-Assignment-1\(Dynamic-Memory-and-2D-Arrays\)/) | OOP | Dynamic Memory · Pointers · File Handling | 3 + Bonus |
+| 06 | [OOP-Assignment-2(Operator-Overloading)](./OOP-Assignment-2\(Operator-Overloading\)/) | OOP | Operator Overloading · Rule of Three | 3 |
+| 07 | [OOP-Assignment-3(Aggregation-and-Composition)](./OOP-Assignment-3\(Aggregation-and-Composition\)/) | OOP | Aggregation · Composition · OOP Relationships | 1 |
+
+---
