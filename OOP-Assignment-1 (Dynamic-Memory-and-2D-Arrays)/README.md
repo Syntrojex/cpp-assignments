@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📁 Assignment-5 (OOP Assignment 1) — Dynamic Memory & 2D Arrays
+# 📁 OOP Assignment 1 — Dynamic Memory & 2D Arrays
 
 **Object-Oriented Programming | FAST NUCES BS-SE**
 
