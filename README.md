@@ -70,3 +70,12 @@ OOP Assignment 3 →  OOP Relationships — Composition vs Aggregation
 
 ---
 
+## 🏛️ Course Details
+
+| Course | Instructor | Semester |
+|--------|-----------|----------|
+| Programming Fundamentals | Ms. Anosha Khan | Fall 2025 |
+| Object-Oriented Programming | Ma'am Hina Iqbal | Spring 2026 |
+
+---
+
