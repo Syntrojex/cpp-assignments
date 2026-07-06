@@ -12,3 +12,11 @@
 </div>
 
 ---
+
+## 📋 Overview
+
+This repository contains all C++ assignments completed during **BS-SE** at **FAST NUCES Lahore**.
+It covers two courses — **Programming Fundamentals** and **Object-Oriented Programming** —
+progressing from basic selection structures all the way to complex OOP design patterns.
+
+---
