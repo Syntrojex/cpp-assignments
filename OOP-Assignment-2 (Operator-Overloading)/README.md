@@ -1,6 +1,6 @@
 <div align="center">
 
-#  📁 Assignment-6 (OOP Assignment 2) — Operator Overloading
+#  📁 OOP Assignment 2 — Operator Overloading
 
 **Object-Oriented Programming | FAST NUCES BS-SE**
 
