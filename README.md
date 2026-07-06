@@ -45,3 +45,28 @@ OOP Assignment 2 →  Operator Overloading — custom types, Rule of Three\
 OOP Assignment 3 →  OOP Relationships — Composition vs Aggregation
 
 ---
+
+## 💡 Concepts Covered
+
+```cpp
+// Programming Fundamentals
+✔  Selection structures (if / else if / else / ternary)
+✔  Loops (for / while / do-while / nested)
+✔  Functions and modular design
+✔  Integer arrays and sorting algorithms
+✔  Character arrays and C-strings
+✔  2D arrays and matrix operations
+✔  Pattern matching and encryption
+
+// Object-Oriented Programming
+✔  Dynamic memory allocation (new / delete)
+✔  Pointer-based arrays and deep copy
+✔  Rule of Three (destructor, copy constructor, copy assignment)
+✔  Operator overloading (+, -, *, /, [], <<, >>, == and more)
+✔  Composition vs Aggregation
+✔  File handling and data processing
+✔  Memory-safe programming (no leaks, no dangling pointers)
+```
+
+---
+
