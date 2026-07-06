@@ -36,10 +36,10 @@ progressing from basic selection structures all the way to complex OOP design pa
 ---
 
 ## 📈 Learning Progression
-PF Assignment 1  →  Basics — if/else, ternary, arithmetic\
-PF Assignment 2  →  Loops — patterns, Pascal triangle, prime numbers\
-PF Assignment 3  →  Functions & Arrays — sorting, merging, simulation\
-PF Assignment 4  →  Char & 2D Arrays — encryption, matrix ops, pattern matching\
+PF Assignment 1  →  Basics and Selections — if/else, ternary, arithmetic\
+PF Assignment 2  →  Loops and Patterns — patterns, Pascal triangle, prime numbers\
+PF Assignment 3  →  Functions and Arrays — sorting, merging, simulation\
+PF Assignment 4  →  Character and 2D Arrays — encryption, matrix ops, pattern matching\
 OOP Assignment 1 →  Dynamic Memory — pointers, file I/O, deep copy\
 OOP Assignment 2 →  Operator Overloading — custom types, Rule of Three\
 OOP Assignment 3 →  OOP Relationships — Composition vs Aggregation
