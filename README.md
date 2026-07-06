@@ -34,3 +34,55 @@ progressing from basic selection structures all the way to complex OOP design pa
 | 07 | [OOP-Assignment-3(Aggregation-and-Composition)](./OOP-Assignment-3\(Aggregation-and-Composition\)/) | OOP | Aggregation · Composition · OOP Relationships | 1 |
 
 ---
+
+## 📈 Learning Progression
+PF Assignment 1  →  Basics and Selections — if/else, ternary, arithmetic\
+PF Assignment 2  →  Loops and Patterns — patterns, Pascal triangle, prime numbers\
+PF Assignment 3  →  Functions and Arrays — sorting, merging, simulation\
+PF Assignment 4  →  Character and 2D Arrays — encryption, matrix ops, pattern matching\
+OOP Assignment 1 →  Dynamic Memory — pointers, file I/O, deep copy\
+OOP Assignment 2 →  Operator Overloading — custom types, Rule of Three\
+OOP Assignment 3 →  OOP Relationships — Composition vs Aggregation
+
+---
+
+## 💡 Concepts Covered
+
+```cpp
+// Programming Fundamentals
+✔  Selection structures (if / else if / else / ternary)
+✔  Loops (for / while / do-while / nested)
+✔  Functions and modular design
+✔  Integer arrays and sorting algorithms
+✔  Character arrays and C-strings
+✔  2D arrays and matrix operations
+✔  Pattern matching and encryption
+
+// Object-Oriented Programming
+✔  Dynamic memory allocation (new / delete)
+✔  Pointer-based arrays and deep copy
+✔  Rule of Three (destructor, copy constructor, copy assignment)
+✔  Operator overloading (+, -, *, /, [], <<, >>, == and more)
+✔  Composition vs Aggregation
+✔  File handling and data processing
+✔  Memory-safe programming (no leaks, no dangling pointers)
+```
+
+---
+
+## 🏛️ Course Details
+
+| Course | Instructor | Semester |
+|--------|-----------|----------|
+| Programming Fundamentals | Ms. Anosha Khan | Fall 2025 |
+| Object-Oriented Programming | Ma'am Hina Iqbal | Spring 2026 |
+
+---
+
+<div align="center">
+
+*Part of my learning journey at FAST NUCES BS-SE — [Syntrojex](https://github.com/Syntrojex)*
+
+*If this helped you — drop a ⭐*
+
+</div>
