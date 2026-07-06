@@ -79,3 +79,10 @@ OOP Assignment 3 →  OOP Relationships — Composition vs Aggregation
 
 ---
 
+<div align="center">
+
+*Part of my learning journey at FAST NUCES BS-SE — [Syntrojex](https://github.com/Syntrojex)*
+
+*If this helped you — drop a ⭐*
+
+</div>
