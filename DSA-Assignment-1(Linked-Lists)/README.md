@@ -50,3 +50,10 @@
 ✔ Nested loop analysis — geometric & non-linear
 
 ---
+
+## 🧩 Problem Highlights
+
+**Part 1 — Recruitment Pipeline (60 marks)**
+
+A simplified LinkedIn recruitment system built using a **Singly Linked List** where each
+node represents a recruitment stage, and each stage holds an **ArrayList of candidates**.
