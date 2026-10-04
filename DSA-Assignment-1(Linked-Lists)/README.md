@@ -26,3 +26,14 @@
 📄 [View Questions PDF](./Questions.pdf)
 
 ---
+
+## 🗂️ Solutions
+
+| File | Part | Problem |
+|------|------|---------|
+| [Question-1.cpp](./Question-1.cpp) | Part 1 — 60 marks | Recruitment Pipeline (Linked List + ArrayList) |
+| [Question-2.cpp](./Question-2.cpp) | Part 2 — 20 marks | Clone Linked List with Random Pointers |
+| [Question-2 Approach.pdf](./Question-2%20Approach.pdf) | Part 2 — Approach | Written explanation, pseudocode & complexity |
+| [Question-3.pdf](./Question-3.pdf) | Part 3 — 20 marks | Time Complexity Problem Set |
+
+---
