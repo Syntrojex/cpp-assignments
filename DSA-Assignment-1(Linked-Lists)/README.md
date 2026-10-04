@@ -57,3 +57,21 @@
 
 A simplified LinkedIn recruitment system built using a **Singly Linked List** where each
 node represents a recruitment stage, and each stage holds an **ArrayList of candidates**.
+Applied → Screening → Technical Interview → HR Interview → Selected
+
+Key operations implemented:
+
+| Function | Description |
+|----------|-------------|
+| `moveCandidate()` | Move candidate between stages |
+| `withdrawCandidate()` | Remove candidate from pipeline |
+| `promoteEligibleCandidates()` | Auto-promote based on CGPA/scores |
+| `getBestCandidate()` | Weighted score formula |
+| `findCandidatesBySkill()` | Skill-based search across all stages |
+| `insertStage()` | Insert new stage between existing ones |
+| `removeStage()` | Remove empty stage |
+| `reversePipeline()` | Reverse linked list connections only |
+| `hasCycle()` | Floyd's cycle detection — in-place |
+| `displayStatistics()` | Dynamic per-stage stats |
+
+---
