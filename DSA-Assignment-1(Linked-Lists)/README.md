@@ -99,3 +99,19 @@ Step 3 → Separate the two lists\
 | Q4 | Super-logarithmic loop (i = i²) | Θ(log log N) |
 
 ---
+
+## ⚠️ Restrictions
+
+✘ No STL list or STL vector
+✘ No HashMap / unordered_map for pipeline
+✘ No built-in Linked List classes
+✘ No global candidate storage
+✅ Custom Linked List + ArrayList only
+
+---
+
+<div align="center">
+
+*Part of [cpp-assignments](../README.md) — FAST NUCES BS-SE Journey*
+
+</div>
