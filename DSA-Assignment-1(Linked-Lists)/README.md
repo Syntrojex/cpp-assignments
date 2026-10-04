@@ -12,3 +12,17 @@
 </div>
 
 ---
+
+## 📋 Details
+
+| Field | Info |
+|-------|------|
+| **Course** | Data Structures (CS 2001) |
+| **Instructor** | Rana Waqas Ali |
+| **TA** | Syed Aoun Haider Sherazi |
+| **Semester** | Fall 2026 |
+| **Total Marks** | 100 |
+
+📄 [View Questions PDF](./Questions.pdf)
+
+---
