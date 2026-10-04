@@ -40,13 +40,13 @@
 
 ## 💡 Concepts Practiced
 
-✔ Singly Linked List — custom implementation
-✔ ArrayList / Dynamic Array — without STL vector
-✔ Linked List + ArrayList combined data structure
-✔ Cycle detection — Floyd's algorithm
-✔ Deep copy of pointer-based structures
-✔ Random pointer cloning — O(N) interleaving technique
-✔ Time complexity analysis — Θ-bounds
+✔ Singly Linked List — custom implementation\
+✔ ArrayList / Dynamic Array — without STL vector\
+✔ Linked List + ArrayList combined data structure\
+✔ Cycle detection — Floyd's algorithm\
+✔ Deep copy of pointer-based structures\
+✔ Random pointer cloning — O(N) interleaving technique\
+✔ Time complexity analysis — Θ-bounds\
 ✔ Nested loop analysis — geometric & non-linear
 
 ---
