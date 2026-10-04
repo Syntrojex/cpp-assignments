@@ -83,8 +83,19 @@ Deep copy of a linked list where each node has a `next` and a `random` pointer.
 
 Solved using the **O(N) interleaving technique** — pure linked list manipulation:
 
-Step 1 → Interleave cloned nodes between original nodes
-Step 2 → Set random pointers of cloned nodes
-Step 3 → Separate the two lists
+Step 1 → Interleave cloned nodes between original nodes\
+Step 2 → Set random pointers of cloned nodes\
+Step 3 → Separate the two lists\
+
+---
+
+**Part 3 — Time Complexity Problem Set (20 marks)**
+
+| # | Loop Structure | Tight Bound |
+|---|---------------|-------------|
+| Q1 | Harmonic series nested loop | Θ(N log N) |
+| Q2 | Square root inner loop | Θ(N√N) |
+| Q3 | Geometric loops (×2 outer, ×3 inner) | Θ(log N · log N) |
+| Q4 | Super-logarithmic loop (i = i²) | Θ(log log N) |
 
 ---
