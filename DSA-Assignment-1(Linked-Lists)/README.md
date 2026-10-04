@@ -37,3 +37,16 @@
 | [Question-3.pdf](./Question-3.pdf) | Part 3 — 20 marks | Time Complexity Problem Set |
 
 ---
+
+## 💡 Concepts Practiced
+
+✔ Singly Linked List — custom implementation
+✔ ArrayList / Dynamic Array — without STL vector
+✔ Linked List + ArrayList combined data structure
+✔ Cycle detection — Floyd's algorithm
+✔ Deep copy of pointer-based structures
+✔ Random pointer cloning — O(N) interleaving technique
+✔ Time complexity analysis — Θ-bounds
+✔ Nested loop analysis — geometric & non-linear
+
+---
