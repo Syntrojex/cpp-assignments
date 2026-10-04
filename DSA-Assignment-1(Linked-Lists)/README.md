@@ -56,7 +56,7 @@
 **Part 1 — Recruitment Pipeline (60 marks)**
 
 A simplified LinkedIn recruitment system built using a **Singly Linked List** where each
-node represents a recruitment stage, and each stage holds an **ArrayList of candidates**.
+node represents a recruitment stage, and each stage holds an **ArrayList of candidates**.\
 Applied → Screening → Technical Interview → HR Interview → Selected
 
 Key operations implemented:
@@ -73,5 +73,18 @@ Key operations implemented:
 | `reversePipeline()` | Reverse linked list connections only |
 | `hasCycle()` | Floyd's cycle detection — in-place |
 | `displayStatistics()` | Dynamic per-stage stats |
+
+---
+
+**Part 2 — Clone Linked List with Random Pointers (20 marks)**
+
+Deep copy of a linked list where each node has a `next` and a `random` pointer.
+`random` can point to any node — including itself or NULL.
+
+Solved using the **O(N) interleaving technique** — pure linked list manipulation:
+
+Step 1 → Interleave cloned nodes between original nodes
+Step 2 → Set random pointers of cloned nodes
+Step 3 → Separate the two lists
 
 ---
