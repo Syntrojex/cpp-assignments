@@ -57,7 +57,8 @@
 
 A simplified LinkedIn recruitment system built using a **Singly Linked List** where each
 node represents a recruitment stage, and each stage holds an **ArrayList of candidates**.\
-Applied → Screening → Technical Interview → HR Interview → Selected
+Applied → Screening → Technical Interview → HR Interview → Selected\
+🌐 **[Live Demo → pipelinehire.vercel.app](https://pipelinehire.vercel.app/)**
 
 Key operations implemented:
 
