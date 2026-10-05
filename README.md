@@ -37,6 +37,7 @@ The assignments progress from basic selection structures to advanced object-orie
 | 05 | [OOP-Assignment-1(Dynamic Memory & 2D Arrays)](./OOP-Assignment-1(Dynamic%20Memory%20%26%202D%20Arrays)/) | OOP | Dynamic Memory · Pointers · File Handling | 3 + Bonus |
 | 06 | [OOP-Assignment-2(Operator Overloading)](./OOP-Assignment-2(Operator%20Overloading)/) | OOP | Operator Overloading · Rule of Three | 3 |
 | 07 | [OOP-Assignment-3(Aggregation & Composition)](./OOP-Assignment-3(Aggregation%20%26%20Composition)/) | OOP | Aggregation · Composition · OOP Relationships | 1 |
+| 08 | [DSA-Assignment-1(Linked-Lists)](./DSA-Assignment-1(Linked-Lists)/) | DSA | Arrays · Linked-Lists · Time Complexity | 3 |
 
 ---
 
