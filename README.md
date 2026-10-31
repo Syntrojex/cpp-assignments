@@ -30,14 +30,13 @@ The assignments progress from basic selection structures to advanced object-orie
 
 | # | Folder | Course | Topics | Questions |
 |---|--------|--------|--------|-----------|
-| 01 | [Assignment-1(Basics & Selections)](./Assignment-1(Basics%20%26%20Selections)/) | Programming Fundamentals | Selection Structures · if/else · ternary | 8 |
-| 02 | [Assignment-2(Loops & Patterns)](./Assignment-2(Loops%20%26%20Patterns)/) | Programming Fundamentals | for · while · do-while · Patterns | 8 |
-| 03 | [Assignment-3(Functions & Arrays)](./Assignment-3(Functions%20%26%20Arrays)/) | Programming Fundamentals | Functions · Integer Arrays · Sorting | 6 |
-| 04 | [Assignment-4(Character Arrays & Matrices)](./Assignment-4(Character%20Arrays%20%26%20Matrices)/) | Programming Fundamentals | Character Arrays · 2D Arrays · Encryption | 5 |
-| 05 | [OOP-Assignment-1(Dynamic Memory & 2D Arrays)](./OOP-Assignment-1(Dynamic%20Memory%20%26%202D%20Arrays)/) | OOP | Dynamic Memory · Pointers · File Handling | 3 + Bonus |
-| 06 | [OOP-Assignment-2(Operator Overloading)](./OOP-Assignment-2(Operator%20Overloading)/) | OOP | Operator Overloading · Rule of Three | 3 |
-| 07 | [OOP-Assignment-3(Aggregation & Composition)](./OOP-Assignment-3(Aggregation%20%26%20Composition)/) | OOP | Aggregation · Composition · OOP Relationships | 1 |
-| 08 | [DSA-Assignment-1(Linked-Lists)](./DSA-Assignment-1(Linked-Lists)/) | DSA | Arrays · Linked-Lists · Time Complexity | 3 |
+| 01 | [Assignment-1(Basics & Selections)](./Assignment-1%20(Basics%20%26%20Selections)/) | Programming Fundamentals | Selection Structures · if/else · ternary | 8 |
+| 02 | [Assignment-2(Loops & Patterns)](./Assignment-2%20(Loops%20%26%20Patterns)/) | Programming Fundamentals | for · while · do-while · Patterns | 8 |
+| 03 | [Assignment-3(Functions & Arrays)](./Assignment-3%20(Functions%20%26%20Arrays)/) | Programming Fundamentals | Functions · Integer Arrays · Sorting | 6 |
+| 04 | [Assignment-4(Character Arrays & Matrices)](./Assignment-4%20(Char%20Arrays%20%26%20Matrices)/) | Programming Fundamentals | Character Arrays · 2D Arrays · Encryption | 5 |
+| 05 | [OOP-Assignment-1(Dynamic Memory & 2D Arrays)](./OOP-Assignment-1%20(Dynamic%20Mem%20%26%202D%20Matrices)/) | OOP | Dynamic Memory · Pointers · File Handling | 3 + Bonus |
+| 06 | [OOP-Assignment-2(Operator Overloading)](./OOP-Assignment-2%20(Operator%20Overloading)/) | OOP | Operator Overloading · Rule of Three | 3 |
+| 07 | [OOP-Assignment-3(Aggregation & Composition)](./OOP-Assignment-3%20(Aggregation%20%26%20Composition)/) | OOP | Aggregation · Composition · OOP Relationships | 1 |
 
 ---
 
@@ -85,7 +84,6 @@ OOP Assignment 3 →  Aggregation and Composition - OOP Relationships
 |--------|------------|----------|
 | Programming Fundamentals | Ms. Anosha Khan | Fall 2025 |
 | Object-Oriented Programming | Ma'am Hina Iqbal | Spring 2026 |
-| Data Structures | Prof. Rana Waqas | Fall 2026 |
 
 ---
 
